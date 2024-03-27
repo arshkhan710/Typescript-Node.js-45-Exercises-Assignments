@@ -1,0 +1,11 @@
+{
+  "name": "question-12-greeting",
+  "version": "1.0.0",
+  "description": "exercise 12 from 45 questions assignments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arsh khan",
+  "license": "MIT"
+}

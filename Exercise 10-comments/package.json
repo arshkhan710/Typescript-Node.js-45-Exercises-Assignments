@@ -1,0 +1,11 @@
+{
+  "name": "question-10-comments",
+  "version": "1.0.0",
+  "description": "question number 10 from 45 question assignments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arsh khan",
+  "license": "MIT"
+}

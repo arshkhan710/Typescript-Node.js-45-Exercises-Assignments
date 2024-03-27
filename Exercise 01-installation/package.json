@@ -1,0 +1,11 @@
+{
+  "name": "question-01-installation",
+  "version": "1.0.0",
+  "description": "exercise 1 from 45 question Assingments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arsh khan",
+  "license": "MIT"
+}

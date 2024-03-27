@@ -1,0 +1,14 @@
+{
+  "name": "question-03-names-cases",
+  "version": "1.0.0",
+  "description": "exercise 3 from 45 question assignments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arsh khan",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.11.30"
+  }
+}
